@@ -2,6 +2,9 @@
 
 This is a simple chat application built with React, using WebSocket for real-time communication and Zustand for state management.
 
+![Copy of Minimalist Neutral Multi Device Computer Mockup Website Launch Instagram Post](https://github.com/fahad0samara/react-Chat-App/assets/90055525/23b4e84f-5f93-417d-b426-b35c89838783)
+
+
 ## Features
 
 - **Real-time Messaging:** Chat with your friends or colleagues in real-time.
